@@ -1,6 +1,7 @@
 {
   "name": "@vuepress/core",
-  "version": "1.5.4.1",
+  "version": "1.5.4",
+  "rcUpdateVersion": "1.0.0",
   "description": "Minimalistic doc generator with Vue component based layout system",
   "keywords": [
     "documentation",
